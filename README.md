@@ -1,0 +1,5 @@
+- Developed a console-based library management system using Core Java and the Collection framework.
+- Implemented features for student and librarian interactions, including viewing, searching, issuing, and returning books.
+- Conducted extensive testing and debugging to ensure system reliability.
+- Utilized the Collection framework to manage and manipulate library data.
+- Stored book and student data in files using File I/O operations.
